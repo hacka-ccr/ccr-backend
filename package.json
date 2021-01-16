@@ -1,0 +1,11 @@
+{
+  "name": "ccr-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hacka-ccr/ccr-backend.git",
+  "author": "Fábio Alvarenga <fabio99alvarenga@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
